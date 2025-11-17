@@ -66,7 +66,7 @@ function App() {
         <meta name="theme-color" content={accent} />
         <meta
           name="description"
-          content="Portfolio of Software Developer Elina Elkama"
+          content="Portfolio of Software Developer Elina Puola"
         />
       </head>
       <body>
