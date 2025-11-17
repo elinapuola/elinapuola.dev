@@ -105,8 +105,8 @@ function App() {
             </Section>
             <Section
               title="Façade"
-              git="https://github.com/elinaelkama/facade"
-              demo="https://facade.elinaelkama.com/"
+              git="https://github.com/elinapuola/facade"
+              demo="https://facade.elinapuola.dev/"
               img={facadePicture}
               altText="Restaurant Facade Homepage"
             >
@@ -117,7 +117,7 @@ function App() {
             </Section>
             <Section
               title="DBD Perk Randomizer"
-              git="https://github.com/elinaelkama/dbdrperkrandom"
+              git="https://github.com/elinapuola/dbdrperkrandom"
               demo="https://dbd.lol/"
               img={dbdPicture}
               altText="Dead by Daylight Perk Randomizer"
@@ -134,7 +134,7 @@ function App() {
             </Section>
             <Section
               title="TicTacGo"
-              git="https://github.com/elinaelkama/tictacgo"
+              git="https://github.com/elinapuola/tictacgo"
               img={tictacgo}
               altText="Tic Tac Go in terminal"
             >
@@ -142,7 +142,7 @@ function App() {
             </Section>
             <Section
               title="Crappy Bird"
-              git="https://github.com/elinaelkama/crappybird"
+              git="https://github.com/elinapuola/crappybird"
               img={crappyBird}
               altText="CrappyBird Java game"
             >
@@ -150,7 +150,7 @@ function App() {
             </Section>
             <Section
               title="Faci"
-              git="https://github.com/elinaelkama/faci"
+              git="https://github.com/elinapuola/faci"
               img={faciPicture}
               altText="Faci-bot user profile on Discord"
             >
@@ -172,8 +172,8 @@ function App() {
               </p>
             </Section>
             <Section
-              title="elinaelkama.com"
-              git="https://github.com/elinaelkama/elinaelkama.com"
+              title="elinapuola.dev"
+              git="https://github.com/elinapuola/elinapuola.dev"
             >
               <p>
                 This page is made with TypeScript and React, using
