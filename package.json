@@ -1,9 +1,9 @@
 {
-  "name": "elinaelkama.com",
+  "name": "elinapuola.dev",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://elinaelkama.com",
+  "homepage": "https://elinapuola.dev",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.7",
-    "elinaelkama.com": "file:",
+    "elinapuola.dev": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
